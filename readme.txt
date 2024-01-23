@@ -1,6 +1,4 @@
 === Pods - Custom Content Types and Fields ===
-Contributors: sc0ttkclark, zrothauser, keraweb, jimtrue, quasel, nicdford, jamesgol, ramoonus, pglewis, dan.stefan, Desertsnowman, mgibbs189, Shelob9, clubduece, curtismchale, mikedamage, jchristopher, pcfreak30
-Donate link: https://friends.pods.io/
 Tags: pods, custom post types, custom taxonomies, content types, custom fields, block
 Requires at least: 5.7
 Tested up to: 6.2
@@ -29,9 +27,7 @@ Want to check it out? Give Pods a test drive with our new [One-click Demo](https
 
 Check out our [Documentation](https://docs.pods.io/), [Support Forums](https://wordpress.org/support/plugin/pods/), and our [Live Community Slack Chat](https://support.pods.io/chat/) for assistance building your dream project with Pods.
 
-= Introduction =
 
-[youtube https://www.youtube.com/watch?v=0WqKZr2gPZY]
 
 = Content types that evolve with your needs =
 
